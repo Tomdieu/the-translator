@@ -1,4 +1,5 @@
 ## TRANSLATED LANGUAGES
+
 - [AMHARIQUE](./Translations/amharique.txt)
 - [ENGLISH](./Translations/english.txt)
 - [FRENCH](./Translations/francais.txt)
@@ -20,6 +21,6 @@
 - [IRISH](./Translations/irish.txt)
 - [RUSSIAN](./Translations/russian.txt)
 - [LUGANDA](./Translations/luganda.txt)
-- [YUROBA](./Translations/YUROBA.txt)
--[TURKISH](./Translations/TURKISH.txt)
+- [YUROBA](./Translations/YUROBA.txt) -[TURKISH](./Translations/TURKISH.txt)
 - [PORTUGUESE](./Translations/portuguese.txt)
+- [ESTONIAN](./Translations/estonian.txt)

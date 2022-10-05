@@ -1,0 +1,66 @@
+Teksti ja arvuti lühiajalugu
+
+1. Teksti keskne roll arvuti arengus
+
+Esimene programmeeritav digitaalarvuti ehitati 1940. aastatel. Teksti töötlemine on
+veelgi uuem tava, mis pärineb 1960. aastatest. Alles 1990. aastatel tekkis
+arvuti hakkas pakkuma tõsist alternatiivi ka tekstide levitamiseks. Siiski vähem
+kui pool sajandit on arvutid end ühiskonna tekstuuri sisendanud
+niivõrd, et see ei saaks ilma nendeta toimida. Selles peatükis uuritakse, kuidas
+arvuti on nii lühikese ajaga hakanud täitma just nimelt sellist domineerivat rolli
+tekstimaailm.
+Mõned olulised verstapostid sellest ajast alates digitaalseks muutunud arenduses
+tekstikandjat saab tuvastada.
+19. sajandil loodi esmakordselt üheotstarbeline arvutusmasin
+neil on potentsiaal muutuda universaalseks masinaks, mis suudab täita selliseid ülesandeid
+võib väljendada algoritmi abil. 1940. aastatel olid esimesed universaalsed masinad
+ehitatud. 1960. aastatel võimaldati arvutil kui universaalmasinal teksti töödelda,
+mis andis sellele rolli tekstiloomefaasis. 1980. aastatel graafiline inimene-masin
+arvuti liides suurendas oluliselt tüpograafia võimalusi
+teksti renderdamine. See võimaldas arvutil mängida tootmises keskset rolli
+trükised. Graafiline liides sillutas teed ka kahe kooseksisteerimisele
+Erinevad viisid teksti digitaalseks käsitlemiseks: loogiline ja tüpograafiline.
+• 19. sajandil töötati esmakordselt välja üheotstarbeline arvutusmasin
+omada potentsiaali saada universaalseks masinaks, mis on võimeline ülesandeid täitma
+mida saab väljendada algoritmi abil.
+• 1940. aastatel ehitati esimesed universaalmasinad.
+• 1960. aastatel võimaldati arvutil kui universaalmasinal teksti töödelda, mis
+andis sellele rolli tekstiloome faasis.
+• 1980. aastatel täiustati oluliselt arvuti graafilist inimese ja masina liidest
+teksti tüpograafilise esitamise võimalused. See võimaldas arvutil mängida
+keskset rolli trükiste valmistamisel. Graafiline liides sillutas ka
+viis, kuidas koos eksisteerida kaks erinevat viisi teksti digitaalseks käsitlemiseks: loogiline ja
+tüpograafiline.
+• 1990. aastatel lülitati arvuti võrku, mis suurendas selle rolli a
+kommunikatsioonivahendist analoogtrükiste tootmise abivahendist
+uus, täielikult digitaalne andmekandja, mis hõlmab ka levitamist ja
+tarbimist.
+Robert Darnton on oma "kommunikatsiooniringis"1 kontseptualiseerinud kogu
+raamatute ja muude trükiteksti vormide edastamise protsess, nagu see on toiminud mitmel puhul
+sajandite jooksul. See mudel visualiseerib protsessi, milles töötavad erinevad järjestikused osalejad
+1 Vt Robert Darnton, „What is the History of Books”, Daedalus, suvi 1982, lk. 65-83.
+2
+üheskoos erinevates kultuurilistes, majanduslikes ja poliitilistes tingimustes, et levitada
+autoriteksti, et see jõuaks lugejateni. Sideahela paigaldamine üle
+Digitaalse teksti edastamise protsess see mudel tuvastab sarnasused ja erinevused
+(või järjepidevused ja katkestused) uue digitaalse meediumi ja selle eelkäija vahel
+trükimeedium.
+Tekstide avalikustamise ja levitamise protsess hõlmab mitmesuguseid
+eraldi praktikakohad. Need vastavad umbkaudu teatistes tuvastatutele
+ahel: teksti loomine (kirjutamine), millele järgneb selle tootmine (korrutamine),
+levitamine (teksti avalikustamise hetk) ja lõpuks tarbimine (lugemine).
+Küll aga vaadata arvuti rolli arengu erinevaid etappe sisse
+teksti ülekandmist lähemalt, tahaksin teha sellesse ahelasse ühe väikese kohanduse
+praktikakohtadest. Tahaksin asetada suurendusklaasi ahela esimese lüli kohale
+"loometapp", mis on faas, milles teksti sisu ja vorm puuduvad
+viimistletud. Lisaks autoripoolsele teksti kirjutamisele mõistab see faas ka seda
+toimetamine, olenemata sellest, kas seda teeb autor või keegi, kes tegutseb tema nimel (eest
+näiteks väljaandja toimetaja). Tehniliselt tähendab see vahetegemist (a)
+teksti sisestamine, (b) teksti salvestamine ja (c) tekstiga manipuleerimine pärast selle sisestamist.
+Selle voolavuse äratundmine loomise etapis, kirjutamise ja toimetamise mõistmine mis tahes
+iteratsioonide arv, muudab arvuti rolli arengu jälgimise lihtsamaks
+kirjutamisprotsess. Selles arengus võib ära tunda ligikaudu kolm etappi. Need osaliselt
+kattuvad, kuid need on põhimõtteliselt piisavalt erinevad, et neid eraldi käsitleda. Tee
+etapid on (1) teksti esitamine arvutis (sisestamine, salvestamine, salvestamine), (2)
+salvestatud tekstiga manipuleerimine teaduslike ja professionaalsete rakenduste jaoks ning (3) tegelik
+tekstitöötlus arvutis, abivahendina autorimõtlemisel ja kirjutamisel lk
